@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">English To Metric Converter</string>
+    <string name="txtTitle"><![CDATA[English --> Metric]]></string>
+    <string name="txtNumUnits">Qty</string>
+    <string name="btnConvert">CONVERT</string>
+    <string name="prompt">Select Conversion</string>
+    <string name="description">Tape Measure Image</string>
+
+    <string-array name="txtConversion">
+        <item>Inches --> Centimeters</item>
+        <item>Feet --> Meters</item>
+        <item>Yards --> Meters</item>
+        <item>Miles --> Kilometers</item>
+        <item>Quarts --> Liters</item>
+        <item>Gallons --> Liters</item>
+        <item>Ounces --> Grams</item>
+        <item>Pounds --> Kilograms</item>
+    </string-array>
+</resources>
